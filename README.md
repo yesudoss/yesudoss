@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <h1 align="center">
@@ -55,12 +55,4 @@ if __name__ == '__main__':
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/playlist/2DUsah36BjSgmz200dxDIZ">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div
 -->
-
