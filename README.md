@@ -17,7 +17,7 @@ Heya! I'm Yesu Doss X, Python Developer at Boscosoft Technologies Pvt. Ltd., Tam
 </p>
 
 ```python
-class Yesu():
+class Yesu:
     
   def __init__(self):
     self.name = "Yesu Doss X";
@@ -32,9 +32,14 @@ if __name__ == '__main__':
     me = Yesu()
 ```
 
-<div align="center">
+<!-- 
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div>
+</div> -->
 
+<div align="center">
+
+![Preview](https://tthn0.vercel.app/api?theme=dark&scan=true)
+
+</div>
