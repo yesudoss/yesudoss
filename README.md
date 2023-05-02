@@ -16,7 +16,7 @@ Heya! I'm Yesu Doss X, Python Developer at Boscosoft Technologies Pvt. Ltd., Tam
   <img src="https://img.shields.io/badge/-EXPRESS-8f0ff?style=for-the-badge&logo=express&logoColor=8f0ff&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-react-4bc545?style=for-the-badge&logo=react&logoColor=4bc545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Django-98b982?style=for-the-badge&logo=django&logoColor=98b982&labelColor=282828%22">
+  <img src="https://img.shields.io/badge/-Django-98b982?style=for-the-badge&logo=django&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Graphql-d4f542?style=for-the-badge&logo=graphql&logoColor=d4f542&labelColor=282828">
   
 </div>
