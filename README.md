@@ -29,7 +29,7 @@ class Yesu:
     self.name = "Yesu Doss X";
     self.username = "yesudoss";
     self.location = "Tamilnadu, India";
-    self.mail = "yesudoss1999@gmail.com";
+    self.mail = "yesudossx@gmail.com";
   
   def __str__(self):
     return self.name
